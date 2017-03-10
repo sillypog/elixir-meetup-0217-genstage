@@ -1,1 +1,11 @@
-["index.md"]
+[
+    "01-supervised-genstage-applications.html",
+    "02-about-me.html",
+    "03-about-genstage.html",
+    "05-lazy-concurrent-distributed.html",
+    "04-backpressure.html",
+    "04b-backpressure-2.html",
+    "06-example-pipeline.html",
+    "07-increasing-capacity.html",
+    "08-erlang-factory.html"
+]
