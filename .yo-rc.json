@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "supervised-genstage-applications",
+    "packageVersion": "1.0.0",
+    "revealTheme": "sky",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "sillypog",
+    "githubRepository": "elixir-meetup-0217-genstage"
+  }
+}
